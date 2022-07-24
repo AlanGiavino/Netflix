@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "62d78ae13a2547658f24ded5"
+  },
+  "email": "alangiavino@gmail.com",
+  "likedMovies": [
+    {
+      "id": 616037,
+      "name": "Thor: Love and Thunder",
+      "image": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 453395,
+      "name": "Doctor Strange in the Multiverse of Madness",
+      "image": "/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": 756999,
+      "name": "The Black Phone",
+      "image": "/tsC3DRGAQvkoA88lQQfbQ40byFS.jpg",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ]
+    }
+  ],
+  "__v": 0
+}]
