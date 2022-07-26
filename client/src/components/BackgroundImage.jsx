@@ -12,9 +12,15 @@ export default function BackgroundImage() {
 
 const Container = styled.div`
   height: 100vh;
-  width: 100vw;
+  width: 100%;
+  position: relative;
+  background-size: cover;
   img {
-    height: 100vh;
-    width: 100vw;
+    position: absolute;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
   }
 `;
