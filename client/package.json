@@ -31,6 +31,9 @@
       "react-app/jest"
     ]
   },
+  "browser": {
+    "fs": false
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -44,6 +47,5 @@
     ]
   },
   "devDependencies": {
-    "dotenv-webpack": "^8.0.0"
   }
 }
