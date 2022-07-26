@@ -32,9 +32,6 @@
     ]
   },
   "browserslist": {
-    "fs": false,
-    "path": false,
-    "os": false,
     "production": [
       ">0.2%",
       "not dead",
